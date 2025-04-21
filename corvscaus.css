@@ -10,3 +10,18 @@ h1 {
 h2 {
   font-size: 1em;
 }
+
+#button1 {
+  background-color: #f1efec;
+  border: 2px solid;
+  padding: 5px 10px;
+  display: inline-block;
+  font-size: 1em;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+#button1:hover {
+  background-color: #bbb9b8;
+}
