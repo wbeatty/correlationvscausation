@@ -1,1 +1,1 @@
-Website that finds two random datasets that share similar graphs and plotting them for the user
+Website that finds two random datasets that share similar graphs and plots them for the user
